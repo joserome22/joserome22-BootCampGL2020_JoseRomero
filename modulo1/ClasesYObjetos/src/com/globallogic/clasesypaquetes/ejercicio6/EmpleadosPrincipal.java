@@ -4,11 +4,7 @@ import java.util.Scanner;
 
 
 
-// import ejercicio.IOException;
 
-// import ejercicio.Empleado;
-// import ejercicio.IOException;
-// import ejercicio.String;
 
 public class EmpleadosPrincipal {
 	
@@ -28,7 +24,7 @@ public class EmpleadosPrincipal {
 		
 		importe = leerImporteHorasExtras();
 		
-		//  estatico horasextras
+		
 		
 		Empleado.setImporteHoraExtra(importe);
 		
@@ -41,7 +37,7 @@ public class EmpleadosPrincipal {
 		System.out.printf("Sueldo: ",e.calcularSueldo());
 		
 		
-		
+		/// dswhjsadjkfhjdsafhadsj
 		 //calcular el empleado que menos cobra
 		
 		e=empleadoQueMenosCobra();
